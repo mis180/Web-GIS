@@ -2,8 +2,8 @@
 
 ![Demo Screenshot](media/screenshot.jpg)
 
-## [Live Demo](https://github.com/mis180/Emission_Sources/index.html)
-- The map is hosted by GitHub and can be found at https://mis180.github.io/Emission_Sources/index.html
+## [Live Demo](https://github.com/mis180/Web-GIS/blob/main/Leaflet_Emission_Sources_Map_with_Google_Sheets/index.html)
+- The map is hosted by GitHub and can be found at https://github.com/mis180/Web-GIS/blob/main/Leaflet_Emission_Sources_Map_with_Google_Sheets/index.html
 
 - Google Sheets template https://docs.google.com/spreadsheets/d/1jf7PLrn7R_avS0PyY6Jp8_nfGiG5VpGamxgw0P4_RQk/edit#gid=0
 
