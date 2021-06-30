@@ -8,6 +8,9 @@
 - Google Sheets template https://docs.google.com/spreadsheets/d/1jf7PLrn7R_avS0PyY6Jp8_nfGiG5VpGamxgw0P4_RQk/edit#gid=0
 
 ## Credits
+https://mis180.github.io/Web-GIS/main/Leaflet_Emission_Sources_Map_with_Google_Sheets/index.html
+
+http://mis180.github.io/
 
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College, CT.
 
