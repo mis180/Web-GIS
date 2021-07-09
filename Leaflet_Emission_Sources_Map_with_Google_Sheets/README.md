@@ -8,9 +8,9 @@
 - Google Sheets template can be found [here](https://docs.google.com/spreadsheets/d/1jf7PLrn7R_avS0PyY6Jp8_nfGiG5VpGamxgw0P4_RQk/edit#gid=0)
 
 
-####This was the first step in working with LeafLeat web maps. 
+#### This was the first step in working with Leaflet web maps. 
 
-####Then more advanced web map applications on Emission Sources prediction were created using Django Framework that deplyed on Heroku cloud platform and can be found [here](https://almatyemission.herokuapp.com/) and [here](https://aadapp.herokuapp.com/). 
+#### Then more advanced web map applications on Emission Sources prediction were created using Django Framework that deplyed on Heroku cloud platform and can be found [here](https://almatyemission.herokuapp.com/) and [here](https://aadapp.herokuapp.com/). 
 
 ## License
 MIT
